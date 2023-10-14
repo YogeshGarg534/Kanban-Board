@@ -1,0 +1,35 @@
+.board-container {
+    height: 100%;
+    max-width: 100%;
+    width: fit-content;
+    padding: 0.5rem;
+    width: 100%;
+   
+}
+
+.board-container .board-header {
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 2.5px;
+    margin: 0 0 40px 0;
+}
+
+.board-container .board-hero {
+    display: grid;
+    gap: 1rem;
+}
+body {
+    background: #eee;
+    padding: 0 16px;
+  }
+  header {
+    background-color: #f4f4f4;
+    /* margin: auto -16px;
+    padding: 16px 32px;  */
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  } 
+
+
+  /* new Code */
+  
+  
